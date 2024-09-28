@@ -15,7 +15,7 @@ Country border and the borders of the provices are available via the [GADM](http
 The plots look like this for Netherlands with the currently (January 2024) known parkruns:
 ![NL](/images/parkruns.png)
 
-This is the version without country border because some questions in a prakrun statistics forum arose whether the lines are correctly positioned:
+This is the version without country border because some questions in a prakrun statistics forum arose whether the lines are correctly positioned:<br>
 ![plot without border](/images/noborder.png)
 
 
