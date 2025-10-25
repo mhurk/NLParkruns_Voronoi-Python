@@ -10,7 +10,7 @@ Early 2024 I wrote a voronoi plot, in R, of the parkruns in The Netherlands. On 
 A voronoi plot or diagram is helpful to visualise the nearest parkrun in The Netherlands.
 
 It uses the parkruns as mentioned on the website of Roderick Hoffman and uses only the ones which are located in The Netherlands.
-Country border and the borders of the provices are available via the [GADM](https://gadm.org/download_country.html) project. A version with the used resultion is also copied in the data directory.
+Country border and the borders of the provices are available via the [GADM](https://gadm.org/download_country.html) project. A version with the used resolution is also copied in the data directory.
 
 The plots look like this for Netherlands with the currently (October 2025) known parkruns:
 ![NL](/images/parkruns.png)
